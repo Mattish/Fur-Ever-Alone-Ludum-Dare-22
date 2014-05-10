@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: Fur_Ever_Alone.jar
+Main-Class: Controller
+
